@@ -16,6 +16,7 @@ const viewText = (index)=>{
      }
 }
 
+
 $textButtons[0].addEventListener("click",()=>{viewText(0)})
 $textButtons[1].addEventListener("click",()=>{viewText(1)})
 $textButtons[2].addEventListener("click",()=>{viewText(2)})
